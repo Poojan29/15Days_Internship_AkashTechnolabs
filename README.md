@@ -21,5 +21,10 @@
 <tr>
     <td><b> Day:- 3 </b></td>
     <td><b> To design simple login screen with lable,email id, password and button </b></td>
-  </tr>
+</tr>
+    
+<tr>
+    <td><b> Day:- 4 </b></td>
+    <td><b> Create BMI Calculator </b></td>
+</tr>
 </table>
