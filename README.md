@@ -27,4 +27,19 @@
     <td><b> Day:- 4 </b></td>
     <td><b> Create BMI Calculator </b></td>
 </tr>
+    
+<tr>
+    <td><b> Day:- 5 </b></td>
+    <td><b> Basic Prime number checker App </b></td>
+</tr>
+    
+<tr>
+    <td><b> Day:- 6 </b></td>
+    <td><b> Credit card checker App </b></td>
+</tr>
+    
+<tr>
+    <td><b> Day:- 7 </b></td>
+    <td><b> Add a Splash Screen </b></td>
+</tr>
 </table>
